@@ -4,3 +4,4 @@ langchain-google-genai
 ipython
 python-dotenv
 tavily-python
+streamlit-chat
