@@ -27,7 +27,7 @@ Here's a breakdown of the important files in this project:
 
 ## �️ Screenshot
 
-<img src="https://user-images.githubusercontent.com/your-screenshot-path/langgraph-agent-chat-demo.png" alt="LangGraph Agent Chat Screenshot" width="700"/>
+<img src="https://raw.githubusercontent.com/gowsikraja/agentic-companion/refs/heads/main/Screenshot.png" alt="LangGraph Agent Chat Screenshot" width="700"/>
 
 ## �🚀 Getting Started
 
